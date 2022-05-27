@@ -1,8 +1,11 @@
 package gitTest1;
 
+import org.testng.annotations.Test;
+
 public class testCode {
 
-	public static void main(String[] args) {
+	@Test
+	public static void testMaven() {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 	}

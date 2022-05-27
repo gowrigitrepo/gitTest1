@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-26T19:13:09 EDT" name="Suite" finished-at="2022-05-26T19:13:09 EDT" duration-ms="32">
+    <groups>
+    </groups>
+    <test started-at="2022-05-26T19:13:09 EDT" name="Test" finished-at="2022-05-26T19:13:09 EDT" duration-ms="32">
+      <class name="gitTest1.testCode">
+        <test-method signature="testMaven()[pri:0, instance:gitTest1.testCode@4313f5bc]" started-at="2022-05-26T19:13:09 EDT" name="testMaven" finished-at="2022-05-26T19:13:09 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaven -->
+      </class> <!-- gitTest1.testCode -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
