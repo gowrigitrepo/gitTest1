@@ -22,7 +22,6 @@ public class testCode {
 
 	@Test
 	public static void jenkinsTest() {
-		// TODO Auto-generated method stub
 
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
