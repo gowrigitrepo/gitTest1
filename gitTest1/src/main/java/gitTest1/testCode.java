@@ -38,6 +38,8 @@ public class testCode {
 
 		driver.findElement(By.id("password_field")).sendKeys("admin123");
 		driver.findElement(By.tagName("button")).click();
+		
+		System.out.println("Application Logged in Successfully");
 
 	}
 
